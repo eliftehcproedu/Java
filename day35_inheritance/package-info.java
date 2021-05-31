@@ -1,0 +1,1 @@
+package mehmetBulutluoz.day35_inheritance;
