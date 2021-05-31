@@ -6,10 +6,7 @@ public class C1_HelloWorld {
 		
 		System.out.println("Hello World");
 		
-		
-		
-		
-		
+
 		
 		
 	} // main method sonu
