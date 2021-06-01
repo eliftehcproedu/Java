@@ -6,7 +6,7 @@ public class Encapsulation01 {
     public static void main(String[] args) {
         // OOP concapt
         // Object Orianted Programing
-        // Bir proje kapsamındaki classşlardan oluşturulan variable ve methodların
+        // Bir proje kapsamındaki classlardan oluşturulan variable ve methodların
         // classlarda tekrar tekrar yazılmaması, var olduğu classdan uretilerek
         // bu variable ve methodların istendiği kadar kulanılmasıdır. (reusability)
         // Write once reuse aanywhere(bir kere yaz heryerde çalıştır)
@@ -19,7 +19,7 @@ public class Encapsulation01 {
         // declaration 2 parcadir ilk parca Data turu , ikinci kisim isim
         // non-primitive'ler icin data turu ayni zaman class ismi olabilir
         // esitligin saginda ise deger, 2 parcadan olusur
-        // new keyword'u, ikicisi de constructor
+        // new keyword'u, ikincisi de constructor
         // hangi class'dan obje uretmek istersek o class'in constructor'inii kullaniriz
 
         obj1.num1=10;
@@ -51,7 +51,7 @@ public class Encapsulation01 {
             obj2.sayi=15;
             obj2.method();
 
-            // ben istediğim class tan obje ureti oradaki public class uyelerine ulaşabilirim
+            // ben istediğim class tan obje uretip oradaki public class uyelerine ulasabilirim
 
 
 
