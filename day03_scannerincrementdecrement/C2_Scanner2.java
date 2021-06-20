@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day03_scannerincrementdecrement;
+package java_mehmetBulutluoz.day03_scannerincrementdecrement;
 import java.util.Scanner;
 public class C2_Scanner2 {
 	public static void main(String[] args) {

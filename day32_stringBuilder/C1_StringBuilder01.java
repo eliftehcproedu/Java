@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day32_stringBuilder;
+package java_mehmetBulutluoz.day32_stringBuilder;
 
 public class C1_StringBuilder01 {
 

@@ -1,1 +1,1 @@
-package mehmetBulutluoz.day26_arraylists;
+package java_mehmetBulutluoz.day26_arraylists;

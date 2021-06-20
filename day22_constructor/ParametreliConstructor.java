@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day22_constructor;
+package java_mehmetBulutluoz.day22_constructor;
 
 public class ParametreliConstructor {
 	

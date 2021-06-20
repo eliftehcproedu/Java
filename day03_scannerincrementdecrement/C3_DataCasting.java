@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day03_scannerincrementdecrement;
+package java_mehmetBulutluoz.day03_scannerincrementdecrement;
 public class C3_DataCasting {
 	public static void main(String[] args) {
 		// byte veri turunde bir degisken olusturup deger atayin

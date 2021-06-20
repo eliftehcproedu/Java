@@ -1,1 +1,1 @@
-package mehmetBulutluoz.day49maps;
+package java_mehmetBulutluoz.day49maps;

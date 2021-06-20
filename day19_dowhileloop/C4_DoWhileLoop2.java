@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day19_dowhileloop;
+package java_mehmetBulutluoz.day19_dowhileloop;
 
 import java.util.Scanner;
 

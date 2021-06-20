@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day30_dateTime;
+package java_mehmetBulutluoz.day30_dateTime;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day06_ifstatements;
+package java_mehmetBulutluoz.day06_ifstatements;
 
 public class C1_IfStatement1 {
 	public static void main(String[] args) {

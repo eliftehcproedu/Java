@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day36_inheritance;
+package java_mehmetBulutluoz.day36_inheritance;
 
 
 public class UstaBasi extends Isci {

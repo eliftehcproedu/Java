@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day18_whileloop;
+package java_mehmetBulutluoz.day18_whileloop;
 
 public class C6_WhileLoop5 {
 

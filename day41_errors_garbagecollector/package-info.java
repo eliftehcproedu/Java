@@ -1,2 +1,2 @@
 
-package mehmetBulutluoz.day41_errors_garbagecollector;
+package java_mehmetBulutluoz.day41_errors_garbagecollector;

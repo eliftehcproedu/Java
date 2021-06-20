@@ -1,1 +1,1 @@
-package mehmetBulutluoz.day28_foreachLoop;
+package java_mehmetBulutluoz.day28_foreachLoop;

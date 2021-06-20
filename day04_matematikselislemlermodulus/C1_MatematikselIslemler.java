@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day04_matematikselislemlermodulus;
+package java_mehmetBulutluoz.day04_matematikselislemlermodulus;
 
 public class C1_MatematikselIslemler {
 

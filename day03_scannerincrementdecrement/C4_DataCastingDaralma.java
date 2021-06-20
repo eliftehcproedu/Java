@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day03_scannerincrementdecrement;
+package java_mehmetBulutluoz.day03_scannerincrementdecrement;
 public class C4_DataCastingDaralma {
 	public static void main(String[] args) {
 		// double bir degisken olusturalim ve bunu int ve sonra da byte'a cevirin

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day38exceptions;
+package java_mehmetBulutluoz.day38exceptions;
 
 public class Exceptions03 {
 

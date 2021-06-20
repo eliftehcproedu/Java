@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day25_arrays;
+package java_mehmetBulutluoz.day25_arrays;
 
 public class MultiDimensionalArrays02 {
 

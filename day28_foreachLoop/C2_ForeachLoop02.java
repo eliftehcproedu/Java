@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day28_foreachLoop;
+package java_mehmetBulutluoz.day28_foreachLoop;
 
 public class C2_ForeachLoop02 {
 

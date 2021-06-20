@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day26_arraylists;
+package java_mehmetBulutluoz.day26_arraylists;
 
 import java.util.ArrayList;
 import java.util.List;

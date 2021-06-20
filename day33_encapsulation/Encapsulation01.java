@@ -1,6 +1,6 @@
-package mehmetBulutluoz.day33_encapsulation;
-import mehmetBulutluoz.day20_scope.Scope1;
-import mehmetBulutluoz.day21_scope.Scope6;
+package java_mehmetBulutluoz.day33_encapsulation;
+import java_mehmetBulutluoz.day20_scope.Scope1;
+import java_mehmetBulutluoz.day21_scope.Scope6;
 
 public class Encapsulation01 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day42_abstractclasses;
+package java_mehmetBulutluoz.day42_abstractclasses;
 
 public class C2_Final2 extends C1_Final {
 

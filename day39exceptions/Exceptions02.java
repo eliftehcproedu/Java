@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day39exceptions;
+package java_mehmetBulutluoz.day39exceptions;
 
 import java.io.FileInputStream;
 

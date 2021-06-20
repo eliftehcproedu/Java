@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day21_scope;
+package java_mehmetBulutluoz.day21_scope;
 
 public class Scope6 {
 	 public int num1;     //access modifier public yapilinca heryerden ulaşıloabilir

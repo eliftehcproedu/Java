@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day43_interfaces;
+package java_mehmetBulutluoz.day43_interfaces;
 
 public interface Interface02 {
 	 

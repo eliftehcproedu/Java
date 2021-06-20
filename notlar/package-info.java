@@ -1,1 +1,1 @@
-package mehmetBulutluoz.notlar;
+package java_mehmetBulutluoz.notlar;

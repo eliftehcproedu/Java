@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day42_abstractclasses;
+package java_mehmetBulutluoz.day42_abstractclasses;
 
 public class IdariPersonel extends Personel {
 	// extends Personel yazarak Abstract Personele concrete bir child olusturdum

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day41_errors_garbagecollector;
+package java_mehmetBulutluoz.day41_errors_garbagecollector;
 
 import java.util.ArrayList;
 import java.util.List;

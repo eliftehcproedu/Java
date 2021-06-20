@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day12_stringmanupalation;
+package java_mehmetBulutluoz.day12_stringmanupalation;
 
 public class C2_EqualsIgnoreCase {
 

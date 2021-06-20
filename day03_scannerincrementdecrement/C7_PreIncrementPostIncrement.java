@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day03_scannerincrementdecrement;
+package java_mehmetBulutluoz.day03_scannerincrementdecrement;
 
 public class C7_PreIncrementPostIncrement {
 

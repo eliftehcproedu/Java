@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day43_interfaces;
+package java_mehmetBulutluoz.day43_interfaces;
 public class InterfaceRunner implements Interface02{
 
 	public static void main(String[] args) {

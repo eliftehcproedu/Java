@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day03_scannerincrementdecrement;
+package java_mehmetBulutluoz.day03_scannerincrementdecrement;
 public class C5_ArtirmaAzaltma {
 	public static void main(String[] args) {
 		

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day16_forloop;
+package java_mehmetBulutluoz.day16_forloop;
 
 public class C4_ForLoop4 {
 

@@ -1,1 +1,1 @@
-package mehmetBulutluoz.day44_iterator;
+package java_mehmetBulutluoz.day44_iterator;

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day09_ternary;
+package java_mehmetBulutluoz.day09_ternary;
 
 public class C2_Ternary2 {
 

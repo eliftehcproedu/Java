@@ -1,1 +1,1 @@
-package mehmetBulutluoz.day33_encapsulation;
+package java_mehmetBulutluoz.day33_encapsulation;

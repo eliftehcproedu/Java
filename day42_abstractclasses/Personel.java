@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day42_abstractclasses;
+package java_mehmetBulutluoz.day42_abstractclasses;
 
 
 // COK ONEMLI: Abstract classin childi concrete class ise Abstract classdaki

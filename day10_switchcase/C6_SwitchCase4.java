@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day10_switchcase;
+package java_mehmetBulutluoz.day10_switchcase;
 
 import java.util.Scanner;
 

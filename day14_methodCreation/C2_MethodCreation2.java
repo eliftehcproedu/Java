@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day14_methodCreation;
+package java_mehmetBulutluoz.day14_methodCreation;
 
 public class C2_MethodCreation2 {
 

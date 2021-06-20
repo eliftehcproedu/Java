@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day08_ifelseifnestedif;
+package java_mehmetBulutluoz.day08_ifelseifnestedif;
 
 import java.util.Scanner;
 

@@ -1,1 +1,1 @@
-package mehmetBulutluoz.day34_inheritance;
+package java_mehmetBulutluoz.day34_inheritance;

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day06_ifstatements;
+package java_mehmetBulutluoz.day06_ifstatements;
 
 import java.util.Scanner;
 

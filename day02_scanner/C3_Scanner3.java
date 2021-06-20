@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day02_scanner;
+package java_mehmetBulutluoz.day02_scanner;
 
 import java.util.Scanner;
 

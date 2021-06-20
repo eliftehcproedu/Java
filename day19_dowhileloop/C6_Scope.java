@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day19_dowhileloop;
+package java_mehmetBulutluoz.day19_dowhileloop;
 
 public class C6_Scope {
 	// Bir Class icerisinde olusturulan variable'larin nerede gecerli oldugu

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day24_arrays;
+package java_mehmetBulutluoz.day24_arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;

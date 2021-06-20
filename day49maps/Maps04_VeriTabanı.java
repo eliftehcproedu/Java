@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day49maps;
+package java_mehmetBulutluoz.day49maps;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

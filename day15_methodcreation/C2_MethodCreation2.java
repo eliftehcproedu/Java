@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day15_methodcreation;
+package java_mehmetBulutluoz.day15_methodcreation;
 
 import java.util.Scanner;
 

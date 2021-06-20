@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day46_collection;
+package java_mehmetBulutluoz.day46_collection;
 
 import java.util.HashSet;
 import java.util.Set;

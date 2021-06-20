@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day23_statickeyword;
+package java_mehmetBulutluoz.day23_statickeyword;
 
 public class Static2 {
 

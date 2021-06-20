@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day29_passbyvalueimmutable;
+package java_mehmetBulutluoz.day29_passbyvalueimmutable;
 
 public class C1_PassByValue01 {
 

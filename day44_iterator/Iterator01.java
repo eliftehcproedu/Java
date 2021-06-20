@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day44_iterator;
+package java_mehmetBulutluoz.day44_iterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;

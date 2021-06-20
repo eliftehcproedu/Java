@@ -1,1 +1,1 @@
-package mehmetBulutluoz.day46_collection;
+package java_mehmetBulutluoz.day46_collection;

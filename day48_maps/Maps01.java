@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day48_maps;
+package java_mehmetBulutluoz.day48_maps;
 
 import java.util.HashMap;
 import java.util.Map;

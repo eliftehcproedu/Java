@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day40exceptions;
+package java_mehmetBulutluoz.day40exceptions;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

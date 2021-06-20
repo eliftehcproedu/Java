@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day01_variables;
+package java_mehmetBulutluoz.day01_variables;
 
 public class C2_Variables {
 	

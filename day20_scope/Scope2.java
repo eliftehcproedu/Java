@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day20_scope;
+package java_mehmetBulutluoz.day20_scope;
 
 public class Scope2 {
 

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day13_stringmanipulation;
+package java_mehmetBulutluoz.day13_stringmanipulation;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day42_abstractclasses;
+package java_mehmetBulutluoz.day42_abstractclasses;
 
 public class Isci extends Personel {
 

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day47_queue_maps;
+package java_mehmetBulutluoz.day47_queue_maps;
 
 import java.util.HashMap;
 

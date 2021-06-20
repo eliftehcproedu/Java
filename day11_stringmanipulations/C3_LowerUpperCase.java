@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day11_stringmanipulations;
+package java_mehmetBulutluoz.day11_stringmanipulations;
 
 import java.util.Locale;
 

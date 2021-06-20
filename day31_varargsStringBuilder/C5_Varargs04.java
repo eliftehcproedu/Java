@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day31_varargsStringBuilder;
+package java_mehmetBulutluoz.day31_varargsStringBuilder;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day13_stringmanipulation;
+package java_mehmetBulutluoz.day13_stringmanipulation;
 
 public class C08_Examples2 {
 

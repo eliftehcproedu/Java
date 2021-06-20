@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day15_methodcreation;
+package java_mehmetBulutluoz.day15_methodcreation;
 
 public class C4_ForLoop1 {
 

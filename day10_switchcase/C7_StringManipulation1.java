@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day10_switchcase;
+package java_mehmetBulutluoz.day10_switchcase;
 
 public class C7_StringManipulation1 {
 

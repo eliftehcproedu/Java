@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day29_passbyvalueimmutable;
+package java_mehmetBulutluoz.day29_passbyvalueimmutable;
 
 import java.util.ArrayList;
 

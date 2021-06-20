@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day45_collections;
+package java_mehmetBulutluoz.day45_collections;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

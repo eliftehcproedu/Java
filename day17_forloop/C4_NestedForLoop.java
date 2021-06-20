@@ -1,4 +1,4 @@
-package mehmetBulutluoz.day17_forloop;
+package java_mehmetBulutluoz.day17_forloop;
 
 import java.util.Scanner;
 
